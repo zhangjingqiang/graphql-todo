@@ -1,0 +1,5 @@
+*.sw[nop]
+tags
+
+node_modules/
+dist/
